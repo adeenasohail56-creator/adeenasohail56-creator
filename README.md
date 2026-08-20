@@ -65,10 +65,6 @@ Git • GitHub • WordPress • VS Code
 
 Professional resume creation platform.
 
-### 👔 Dulha House Website
-
-Modern sherwani brand website.
-
 ### 🏡 GN White Villa & Resort
 
 Resort showcase and booking website.
