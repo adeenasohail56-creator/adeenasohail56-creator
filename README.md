@@ -61,17 +61,7 @@ Git • GitHub • WordPress • VS Code
 
 ## 📌 Featured Projects
 
-### 🌐 Resume Builder Website
 
-Professional resume creation platform.
-
-### 🏡 GN White Villa & Resort
-
-Resort showcase and booking website.
-
-### 🎨 Brand Design Projects
-
-Social media campaigns, branding and marketing creatives.
 
 ---
 
