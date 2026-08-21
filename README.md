@@ -56,13 +56,6 @@ SEO • Meta Ads • Content Strategy • Social Media Marketing
 
 Tools:
 Git • GitHub • WordPress • VS Code
-
----
-
-## 📌 Featured Projects
-
-
-
 ---
 
 ## 🎯 2026 Goals
