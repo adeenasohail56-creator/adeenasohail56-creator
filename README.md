@@ -39,8 +39,6 @@ JavaScript    ██████░░░░ 65%
 
 Machine Learning ███░░░░░░ 30%
 
----
-
 ## 🛠️ Tech Stack
 
 Frontend:
