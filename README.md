@@ -3,7 +3,6 @@ Turning ideas into websites, brands, and digital experiences.
 
  I'm Adeena Sohail
 ### Software Engineering Student • Frontend Developer • Digital Marketer • Graphic Designer
-
 > Building websites, creating brands, and helping businesses grow through technology and marketing.
 
 ##  About Me
