@@ -6,7 +6,6 @@ Turning ideas into websites, brands, and digital experiences.
 > Building websites, creating brands, and helping businesses grow through technology and marketing.
 
 ##  About Me
-
 💻 Passionate about Web Development
 
 🎨 Creative Graphic Designer
